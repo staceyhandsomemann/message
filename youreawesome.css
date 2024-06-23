@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3%;
+}
+p {
+    text-indent: 5%;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.roller {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:  25%;
+}
